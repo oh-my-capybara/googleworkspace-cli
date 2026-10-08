@@ -1,0 +1,5 @@
+{
+  "name": "gws-sheets",
+  "version": "0.22.5",
+  "description": "Google Sheets: Read and write spreadsheets."
+}

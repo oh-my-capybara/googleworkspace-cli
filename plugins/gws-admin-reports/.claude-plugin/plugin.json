@@ -1,0 +1,5 @@
+{
+  "name": "gws-admin-reports",
+  "version": "0.22.5",
+  "description": "Google Workspace Admin SDK: Audit logs and usage reports."
+}

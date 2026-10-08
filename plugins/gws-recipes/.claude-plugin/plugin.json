@@ -1,0 +1,20 @@
+{
+  "name": "gws-recipes",
+  "version": "0.22.5",
+  "description": "Google Workspace CLI multi-step recipes combining several services.",
+  "dependencies": [
+    "gws-calendar",
+    "gws-chat",
+    "gws-classroom",
+    "gws-docs",
+    "gws-drive",
+    "gws-events",
+    "gws-forms",
+    "gws-gmail",
+    "gws-meet",
+    "gws-people",
+    "gws-sheets",
+    "gws-slides",
+    "gws-tasks"
+  ]
+}

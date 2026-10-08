@@ -1,0 +1,5 @@
+{
+  "name": "gws-events",
+  "version": "0.22.5",
+  "description": "Subscribe to Google Workspace events."
+}

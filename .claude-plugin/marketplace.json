@@ -1,0 +1,128 @@
+{
+  "name": "googleworkspace-cli",
+  "owner": {
+    "name": "oh-my-capybara"
+  },
+  "plugins": [
+    {
+      "name": "gws-admin-reports",
+      "source": "./plugins/gws-admin-reports",
+      "description": "Google Workspace Admin SDK: Audit logs and usage reports.",
+      "version": "0.22.5"
+    },
+    {
+      "name": "gws-calendar",
+      "source": "./plugins/gws-calendar",
+      "description": "Google Calendar: Manage calendars and events.",
+      "version": "0.22.5"
+    },
+    {
+      "name": "gws-chat",
+      "source": "./plugins/gws-chat",
+      "description": "Google Chat: Manage Chat spaces and messages.",
+      "version": "0.22.5"
+    },
+    {
+      "name": "gws-classroom",
+      "source": "./plugins/gws-classroom",
+      "description": "Google Classroom: Manage classes, rosters, and coursework.",
+      "version": "0.22.5"
+    },
+    {
+      "name": "gws-docs",
+      "source": "./plugins/gws-docs",
+      "description": "Read and write Google Docs.",
+      "version": "0.22.5"
+    },
+    {
+      "name": "gws-drive",
+      "source": "./plugins/gws-drive",
+      "description": "Google Drive: Manage files, folders, and shared drives.",
+      "version": "0.22.5"
+    },
+    {
+      "name": "gws-events",
+      "source": "./plugins/gws-events",
+      "description": "Subscribe to Google Workspace events.",
+      "version": "0.22.5"
+    },
+    {
+      "name": "gws-forms",
+      "source": "./plugins/gws-forms",
+      "description": "Read and write Google Forms.",
+      "version": "0.22.5"
+    },
+    {
+      "name": "gws-gmail",
+      "source": "./plugins/gws-gmail",
+      "description": "Gmail: Send, read, and manage email.",
+      "version": "0.22.5"
+    },
+    {
+      "name": "gws-keep",
+      "source": "./plugins/gws-keep",
+      "description": "Manage Google Keep notes.",
+      "version": "0.22.5"
+    },
+    {
+      "name": "gws-meet",
+      "source": "./plugins/gws-meet",
+      "description": "Manage Google Meet conferences.",
+      "version": "0.22.5"
+    },
+    {
+      "name": "gws-modelarmor",
+      "source": "./plugins/gws-modelarmor",
+      "description": "Google Model Armor: Filter user-generated content for safety.",
+      "version": "0.22.5"
+    },
+    {
+      "name": "gws-people",
+      "source": "./plugins/gws-people",
+      "description": "Google People: Manage contacts and profiles.",
+      "version": "0.22.5"
+    },
+    {
+      "name": "gws-personas",
+      "source": "./plugins/gws-personas",
+      "description": "Google Workspace CLI persona skills (exec assistant, IT admin, sales ops, ...).",
+      "version": "0.22.5"
+    },
+    {
+      "name": "gws-recipes",
+      "source": "./plugins/gws-recipes",
+      "description": "Google Workspace CLI multi-step recipes combining several services.",
+      "version": "0.22.5"
+    },
+    {
+      "name": "gws-script",
+      "source": "./plugins/gws-script",
+      "description": "Manage Google Apps Script projects.",
+      "version": "0.22.5"
+    },
+    {
+      "name": "gws-sheets",
+      "source": "./plugins/gws-sheets",
+      "description": "Google Sheets: Read and write spreadsheets.",
+      "version": "0.22.5"
+    },
+    {
+      "name": "gws-slides",
+      "source": "./plugins/gws-slides",
+      "description": "Google Slides: Read and write presentations.",
+      "version": "0.22.5"
+    },
+    {
+      "name": "gws-tasks",
+      "source": "./plugins/gws-tasks",
+      "description": "Google Tasks: Manage task lists and tasks.",
+      "version": "0.22.5"
+    },
+    {
+      "name": "gws-workflow",
+      "source": "./plugins/gws-workflow",
+      "description": "Google Workflow: Cross-service productivity workflows.",
+      "version": "0.22.5"
+    }
+  ]
+}

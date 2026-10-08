@@ -1,0 +1,14 @@
+{
+  "name": "gws-personas",
+  "version": "0.22.5",
+  "description": "Google Workspace CLI persona skills (exec assistant, IT admin, sales ops, ...).",
+  "dependencies": [
+    "gws-calendar",
+    "gws-chat",
+    "gws-docs",
+    "gws-drive",
+    "gws-gmail",
+    "gws-sheets",
+    "gws-slides"
+  ]
+}
